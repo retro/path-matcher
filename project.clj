@@ -1,4 +1,4 @@
-(defproject org.clojars.mihaelkonjevic/path-matcher "0.0.0"
+(defproject org.clojars.mihaelkonjevic/path-matcher "0.1.0"
   :description "FIXME: write description"
   :url "https://github.com/retro/path-matcher"
   :license {:name "Eclipse Public License"

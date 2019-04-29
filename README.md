@@ -6,7 +6,7 @@
 A Clojure library designed to ... well, that part is up to you.
 
 ```clj
-[org.clojars.mihaelkonjevic/path-matcher "0.0.0"]
+[org.clojars.mihaelkonjevic/path-matcher "0.1.0"]
 ```
 
 ## Usage
